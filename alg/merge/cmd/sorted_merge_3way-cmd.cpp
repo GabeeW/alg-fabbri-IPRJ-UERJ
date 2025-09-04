@@ -7,7 +7,7 @@
 #define NC_SIZE 2
 #define TOTAL_SIZE (NA_SIZE + NB_SIZE + NC_SIZE)
 
-#include <sorted_merge_3way.h>
+#include "sorted_merge_3way.h"
 
 int
 main()
