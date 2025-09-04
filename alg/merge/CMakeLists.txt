@@ -6,8 +6,3 @@ add_subdirectory(tests)
 add_subdirectory(benchmark)
 
 # Link the test executable with gtest AND the Threads library
-add_custom_target(eval
-  COMMAND bm-sorted_merge_3way-cmd
-  DEPENDS bm-sorted_merge_3way-cmd
-  COMMENT "Running merge benchmark"
-)
