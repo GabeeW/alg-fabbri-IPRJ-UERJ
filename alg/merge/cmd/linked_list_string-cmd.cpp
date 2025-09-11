@@ -1,6 +1,6 @@
 /* R. Fabbri, 2024 */
 #include <iostream>
-#include <linked_list_string.h>
+#include "linked_list_string.h"
 
 int
 main()
