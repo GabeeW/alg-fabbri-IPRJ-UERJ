@@ -1,6 +1,6 @@
 /* Author Ricardo Fabbri rfabbri@iprj.uerj.br 2025 */
 #include <benchmark/benchmark.h>
-#include <sorted_merge_3way.h>
+#include "sorted_merge_3way.h"
 #include <vector>
 #include <algorithm>
 #include <random>
